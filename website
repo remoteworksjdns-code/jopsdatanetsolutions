@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jops Datanet Solutions | Data Centre Interconnect Specialists, Singapore</title>
+<meta name="description" content="Jops Datanet Solutions Pte Ltd is a Singapore data centre interconnect specialist providing rack and stack, smart hands, storage and delivery, spares management, service provisioning and testing, and equipment monitoring.">
+<meta property="og:title" content="Jops Datanet Solutions | Data Centre Interconnect Specialists">
+<meta property="og:description" content="Rack and stack, smart hands, spares, provisioning and monitoring for data centres in Singapore.">
+<meta property="og:image" content="assets/logo-full.jpg">
+<meta name="theme-color" content="#222629">
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header id="top">
+  <div class="wrap nav">
+    <a href="#top" class="brand" aria-label="Jops Datanet Solutions home">
+      <img src="assets/emblem-96.png" alt="Jops Datanet Solutions logo" width="44" height="44">
+      <span>Jops Datanet Solutions</span>
+    </a>
+    <button class="menu-btn" aria-label="Open menu" aria-expanded="false">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+    <ul class="nav-links">
+      <li><a href="#services">Services</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li><a href="#contact" class="btn btn-primary">Enquire now</a></li>
+    </ul>
+  </div>
+</header>
+
+<main>
+  <!-- HERO -->
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <p class="eyebrow">Data Centre Interconnect Specialists</p>
+        <h1>Reliable hands on the ground for your <em>data centre</em> operations.</h1>
+        <p class="lead">From rack and stack to provisioning, testing and ongoing monitoring, we keep your interconnect infrastructure in Singapore installed, supported and running.</p>
+        <div class="hero-ctas">
+          <a href="#contact" class="btn btn-primary">Request a quote
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+          </a>
+          <a href="https://wa.me/6598375790" target="_blank" rel="noopener" class="btn btn-ghost">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38a9.9 9.9 0 0 0 4.74 1.21c5.46 0 9.91-4.45 9.91-9.91S17.5 2 12.04 2Zm5.8 14.03c-.24.68-1.42 1.3-1.95 1.35-.5.05-.97.23-3.27-.68-2.77-1.09-4.52-3.92-4.66-4.1-.13-.18-1.1-1.47-1.1-2.8 0-1.33.7-1.99.95-2.26.24-.27.53-.34.71-.34h.51c.16 0 .38-.06.6.46.23.54.77 1.87.84 2 .07.14.11.3.02.48-.09.18-.14.3-.27.46-.14.16-.29.36-.41.48-.14.14-.28.29-.12.56.16.27.7 1.16 1.51 1.88 1.04.92 1.91 1.21 2.18 1.35.27.14.43.11.59-.07.16-.18.68-.79.86-1.06.18-.27.36-.23.61-.14.25.09 1.58.75 1.85.88.27.14.45.2.52.32.07.11.07.66-.17 1.33Z"/></svg>
+            WhatsApp us
+          </a>
+        </div>
+        <div class="badges">
+          <div class="badge-item"><strong>10+ yrs</strong><span>Interconnect field experience</span></div>
+          <div class="badge-item"><strong>3 yrs</strong><span>Operating as Jops Datanet</span></div>
+          <div class="badge-item"><strong>bizSAFE 3</strong><span>Certified workplace safety</span></div>
+        </div>
+      </div>
+      <div class="hero-art">
+        <picture>
+          <source type="image/webp"
+            srcset="assets/emblem-480.webp 480w, assets/emblem-920.webp 920w"
+            sizes="(max-width: 760px) 70vw, 40vw">
+          <img src="assets/emblem-920.jpg" alt="" width="920" height="920" fetchpriority="high">
+        </picture>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICES -->
+  <section id="services" class="alt">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <p class="eyebrow">What we do</p>
+        <h2>Our services</h2>
+        <p class="lead">End-to-end on-site support for data centre and interconnect equipment, delivered by engineers who know the floor.</p>
+      </div>
+      <div class="services">
+        <article class="card reveal">
+          <div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M4 9h16M4 15h16"/><circle cx="8" cy="6" r=".6" fill="currentColor"/><circle cx="8" cy="12" r=".6" fill="currentColor"/><circle cx="8" cy="18" r=".6" fill="currentColor"/></svg></div>
+          <h3>Rack &amp; Stack / Installations</h3>
+          <p>Physical installation of servers, network and optical equipment, with neat cabling, labelling and documentation to your standards.</p>
+        </article>
+        <article class="card reveal">
+          <div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a4 4 0 0 0-5.4 5.2L3 17.8V21h3.2l6.3-6.3a4 4 0 0 0 5.2-5.4l-2.6 2.6-2.4-.6-.6-2.4 2.6-2.6Z"/></svg></div>
+          <h3>Smart Hands Support</h3>
+          <p>On-site remote hands for troubleshooting, reseats, power cycles, cable patching, card and optic swaps, and visual checks.</p>
+        </article>
+        <article class="card reveal">
+          <div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7h11v9H3zM14 10h4l3 3v3h-7z"/><circle cx="7" cy="18" r="1.8"/><circle cx="17" cy="18" r="1.8"/></svg></div>
+          <h3>Storage &amp; Delivery</h3>
+          <p>Secure storage of your equipment and timely delivery to data centre sites when and where you need it.</p>
+        </article>
+        <article class="card reveal">
+          <div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 8 12 3 3 8v8l9 5 9-5V8Z"/><path d="m3 8 9 5 9-5M12 13v8"/></svg></div>
+          <h3>Spares Management</h3>
+          <p>Tracking, stocking and handling of critical spares so replacement parts are ready to minimise downtime.</p>
+        </article>
+        <article class="card reveal">
+          <div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3 8-8"/><path d="M20 12v6a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h9"/></svg></div>
+          <h3>Service Provisioning &amp; Testing</h3>
+          <p>Cross-connect and circuit provisioning with thorough testing and verification before handover.</p>
+        </article>
+        <article class="card reveal">
+          <div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="13" rx="2"/><path d="M8 21h8M12 17v4"/><path d="m7 13 3-3 2 2 4-4"/></svg></div>
+          <h3>Monitoring &amp; Reporting</h3>
+          <p>Ongoing monitoring of equipment health with clear, regular reports so you always know the status of your assets.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section id="about">
+    <div class="wrap about-grid">
+      <div class="about-text reveal">
+        <p class="eyebrow">About us</p>
+        <h2>Interconnect experience you can count on</h2>
+        <p><strong>Jops Datanet Solutions Pte Ltd</strong> is a Singapore-based data centre interconnect specialist. We have been operating officially for 3 years, and our team brings more than 10 years of hands-on experience in the interconnect field.</p>
+        <p>We work as an extension of your operations team on the data centre floor, handling installations, day-to-day support and the logistics behind them, so your infrastructure stays reliable.</p>
+        <p>Safety comes first on every job. We are <strong>bizSAFE Level 3</strong> certified.</p>
+      </div>
+      <div class="points">
+        <div class="point reveal"><div class="num">10+</div><div><h3>Years of expertise</h3><p>Engineers with more than a decade in data centre interconnect.</p></div></div>
+        <div class="point orange reveal"><div class="num">6</div><div><h3>Core services</h3><p>Installation, support, logistics, spares, provisioning and monitoring under one provider.</p></div></div>
+        <div class="point reveal"><div class="num">L3</div><div><h3>bizSAFE certified</h3><p>A recognised workplace safety and health risk management standard.</p></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact" class="alt">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <p class="eyebrow">Get in touch</p>
+        <h2>Enquire about our services</h2>
+        <p class="lead">Tell us what you need and we'll get back to you shortly. For urgent requests, WhatsApp or call us.</p>
+      </div>
+      <div class="contact-grid">
+        <!-- To receive enquiries by email, replace YOUR_FORM_ID with your Formspree form ID (see README). -->
+        <form id="enquiry" action="https://formspree.io/f/YOUR_FORM_ID" method="POST" class="reveal">
+          <div class="row">
+            <div class="field"><label for="name">Name *</label><input id="name" name="name" required autocomplete="name"></div>
+            <div class="field"><label for="company">Company</label><input id="company" name="company" autocomplete="organization"></div>
+          </div>
+          <div class="row">
+            <div class="field"><label for="email">Email *</label><input id="email" type="email" name="email" required autocomplete="email"></div>
+            <div class="field"><label for="phone">Phone</label><input id="phone" type="tel" name="phone" autocomplete="tel"></div>
+          </div>
+          <div class="field">
+            <label for="service">Service of interest</label>
+            <select id="service" name="service">
+              <option>General enquiry</option>
+              <option>Rack &amp; Stack / Installations</option>
+              <option>Smart Hands Support</option>
+              <option>Storage &amp; Delivery</option>
+              <option>Spares Management</option>
+              <option>Service Provisioning &amp; Testing</option>
+              <option>Monitoring &amp; Reporting</option>
+            </select>
+          </div>
+          <div class="field"><label for="message">Message *</label><textarea id="message" name="message" required placeholder="Site location, scope of work, timeline..."></textarea></div>
+          <input type="text" name="_gotcha" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <button type="submit" class="btn btn-primary">Send enquiry
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2 11 13M22 2l-7 20-4-9-9-4 20-7Z"/></svg>
+          </button>
+          <p class="form-note" role="status"></p>
+        </form>
+
+        <div class="info reveal">
+          <div class="info-item">
+            <div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></div>
+            <div><small>Email</small><a href="mailto:mhelmi@jopsdatanetsolutions.com">mhelmi@jopsdatanetsolutions.com</a></div>
+          </div>
+          <div class="info-item">
+            <div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8 9.9a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2Z"/></svg></div>
+            <div><small>Phone / WhatsApp</small><a href="tel:+6598375790">+65 9837 5790</a></div>
+          </div>
+          <div class="info-item">
+            <div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12Z"/><circle cx="12" cy="10" r="2.5"/></svg></div>
+            <div><small>Office</small><address>111 North Bridge Road, #21-01<br>Peninsula Plaza, Singapore 179098</address></div>
+          </div>
+          <div class="map">
+            <iframe title="Map to Peninsula Plaza" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+              src="https://www.google.com/maps?q=Peninsula+Plaza,+111+North+Bridge+Road,+Singapore+179098&output=embed"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap foot">
+    <span>&copy; <span id="year">2026</span> Jops Datanet Solutions Pte Ltd &middot; UEN 202406420E</span>
+    <span>bizSAFE Level 3 certified</span>
+  </div>
+</footer>
+
+<a class="wa-float" href="https://wa.me/6598375790" target="_blank" rel="noopener" aria-label="Chat with us on WhatsApp">
+  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38a9.9 9.9 0 0 0 4.74 1.21c5.46 0 9.91-4.45 9.91-9.91S17.5 2 12.04 2Zm5.8 14.03c-.24.68-1.42 1.3-1.95 1.35-.5.05-.97.23-3.27-.68-2.77-1.09-4.52-3.92-4.66-4.1-.13-.18-1.1-1.47-1.1-2.8 0-1.33.7-1.99.95-2.26.24-.27.53-.34.71-.34h.51c.16 0 .38-.06.6.46.23.54.77 1.87.84 2 .07.14.11.3.02.48-.09.18-.14.3-.27.46-.14.16-.29.36-.41.48-.14.14-.28.29-.12.56.16.27.7 1.16 1.51 1.88 1.04.92 1.91 1.21 2.18 1.35.27.14.43.11.59-.07.16-.18.68-.79.86-1.06.18-.27.36-.23.61-.14.25.09 1.58.75 1.85.88.27.14.45.2.52.32.07.11.07.66-.17 1.33Z"/></svg>
+</a>
+
+<script>
+  // Year in footer
+  document.getElementById('year').textContent = new Date().getFullYear();
+
+  // Header border on scroll
+  const header = document.querySelector('header');
+  const onScroll = () => header.classList.toggle('scrolled', window.scrollY > 8);
+  window.addEventListener('scroll', onScroll, { passive: true }); onScroll();
+
+  // Mobile menu
+  const menuBtn = document.querySelector('.menu-btn');
+  const links = document.querySelector('.nav-links');
+  menuBtn.addEventListener('click', () => {
+    const open = links.classList.toggle('open');
+    menuBtn.setAttribute('aria-expanded', open);
+  });
+  links.querySelectorAll('a').forEach(a => a.addEventListener('click', () => {
+    links.classList.remove('open'); menuBtn.setAttribute('aria-expanded', false);
+  }));
+
+  // Reveal on scroll
+  const io = 'IntersectionObserver' in window ? new IntersectionObserver(entries => {
+    entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
+  }, { threshold: 0.12 }) : null;
+  document.querySelectorAll('.reveal').forEach(el => io ? io.observe(el) : el.classList.add('in'));
+
+  // Enquiry form
+  const form = document.getElementById('enquiry');
+  const note = form.querySelector('.form-note');
+  const EMAIL = 'mhelmi@jopsdatanetsolutions.com';
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const data = new FormData(form);
+    if (data.get('_gotcha')) return; // spam bot
+
+    // Until Formspree is set up, open the visitor's email app with the enquiry filled in.
+    if (form.action.includes('YOUR_FORM_ID')) {
+      const subject = `Website enquiry: ${data.get('service')} - ${data.get('name')}`;
+      const body = `Name: ${data.get('name')}\nCompany: ${data.get('company')}\nEmail: ${data.get('email')}\nPhone: ${data.get('phone')}\nService: ${data.get('service')}\n\n${data.get('message')}`;
+      window.location.href = `mailto:${EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      note.className = 'form-note ok';
+      note.textContent = 'Your email app should open with your enquiry. Just press send.';
+      return;
+    }
+
+    const btn = form.querySelector('button');
+    btn.disabled = true; note.className = 'form-note'; note.textContent = 'Sending...';
+    try {
+      const res = await fetch(form.action, { method: 'POST', body: data, headers: { Accept: 'application/json' } });
+      if (!res.ok) throw new Error();
+      form.reset();
+      note.className = 'form-note ok';
+      note.textContent = 'Thank you! Your enquiry has been sent. We will get back to you shortly.';
+    } catch {
+      note.className = 'form-note err';
+      note.textContent = `Sorry, something went wrong. Please email us at ${EMAIL} or WhatsApp +65 9837 5790.`;
+    } finally {
+      btn.disabled = false;
+    }
+  });
+</script>
+</body>
+</html>
+
+/* Jops Datanet Solutions - site styles */
+:root {
+  --bg: #222629;
+  --bg-2: #1a1d20;
+  --panel: #2a2f33;
+  --line: #363c41;
+  --text: #e9edf0;
+  --muted: #9aa4ad;
+  --blue: #2e8bff;
+  --blue-2: #1663c7;
+  --orange: #f06a2b;
+  --radius: 14px;
+  --max: 1160px;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; scroll-padding-top: 76px; }
+body {
+  font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: var(--bg); color: var(--text); line-height: 1.65; font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; text-decoration: none; }
+img { max-width: 100%; display: block; }
+.wrap { max-width: var(--max); margin: 0 auto; padding: 0 24px; }
+.eyebrow {
+  font-size: 12.5px; letter-spacing: .22em; text-transform: uppercase;
+  color: var(--blue); font-weight: 600; margin-bottom: 14px;
+}
+h1, h2, h3 { line-height: 1.2; font-weight: 600; }
+h2 { font-size: clamp(28px, 3.4vw, 40px); margin-bottom: 16px; }
+.lead { color: var(--muted); font-size: 17px; max-width: 640px; }
+
+/* Buttons */
+.btn {
+  display: inline-flex; align-items: center; gap: 10px;
+  padding: 13px 24px; border-radius: 999px; font-weight: 500; font-size: 15px;
+  border: 1px solid transparent; cursor: pointer; transition: .2s ease; font-family: inherit;
+}
+.btn-primary { background: var(--blue); color: #fff; }
+.btn-primary:hover { background: #4a9cff; transform: translateY(-1px); }
+.btn-ghost { border-color: var(--line); color: var(--text); background: transparent; }
+.btn-ghost:hover { border-color: var(--blue); color: #fff; }
+.btn svg { width: 18px; height: 18px; flex: none; }
+
+/* Header */
+header {
+  position: sticky; top: 0; z-index: 50;
+  background: rgba(34, 38, 41, .88); backdrop-filter: blur(10px);
+  border-bottom: 1px solid transparent; transition: border-color .2s;
+}
+header.scrolled { border-bottom-color: var(--line); }
+.nav { display: flex; align-items: center; justify-content: space-between; height: 72px; }
+.brand { display: flex; align-items: center; gap: 12px; }
+.brand img { width: 44px; height: 44px; }
+.brand span { font-size: 13.5px; letter-spacing: .24em; font-weight: 500; text-transform: uppercase; }
+.nav-links { display: flex; align-items: center; gap: 32px; list-style: none; }
+.nav-links a { color: var(--muted); font-size: 15px; transition: color .2s; }
+.nav-links a:hover { color: var(--text); }
+.nav-links .btn { padding: 9px 20px; color: #fff; }
+.menu-btn { display: none; background: none; border: 0; color: var(--text); cursor: pointer; padding: 8px; }
+.menu-btn svg { width: 26px; height: 26px; }
+
+/* Hero */
+.hero { position: relative; overflow: hidden; padding: 72px 0 96px; }
+.hero-grid { display: grid; grid-template-columns: 1.1fr .9fr; align-items: center; gap: 40px; }
+.hero h1 { font-size: clamp(36px, 5.2vw, 60px); font-weight: 600; margin-bottom: 22px; letter-spacing: -.01em; }
+.hero h1 em { font-style: normal; color: var(--blue); }
+.hero .lead { margin-bottom: 34px; }
+.hero-ctas { display: flex; flex-wrap: wrap; gap: 14px; }
+.hero-art { position: relative; display: flex; justify-content: flex-end; }
+.hero-art picture { display: block; }
+/* Emblem scales with the screen: never smaller than 200px, never larger than 560px,
+   and in between it follows the viewport width (and height on short screens). */
+.hero-art img {
+  width: clamp(200px, min(38vw, 62vh), 560px);
+  height: auto; aspect-ratio: 1 / 1;
+  -webkit-mask-image: radial-gradient(circle at 50% 50%, #000 52%, transparent 71%);
+          mask-image: radial-gradient(circle at 50% 50%, #000 52%, transparent 71%);
+  animation: float 7s ease-in-out infinite;
+}
+@keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+.badges { display: grid; grid-template-columns: repeat(3, auto); justify-content: start; gap: 36px; margin-top: 46px; padding-top: 28px; border-top: 1px solid var(--line); }
+.badge-item strong { display: block; font-size: 26px; font-weight: 600; color: #fff; }
+.badge-item span { font-size: 13.5px; color: var(--muted); display: block; line-height: 1.45; }
+
+/* Sections */
+section { padding: 96px 0; }
+.alt { background: var(--bg-2); }
+.section-head { margin-bottom: 52px; }
+
+/* Services */
+.services { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
+.card {
+  background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius);
+  padding: 30px 28px; transition: .25s ease; position: relative; overflow: hidden;
+}
+.card::after {
+  content: ""; position: absolute; left: 0; top: 0; height: 3px; width: 0;
+  background: linear-gradient(90deg, var(--blue), var(--orange)); transition: width .35s ease;
+}
+.card:hover { transform: translateY(-4px); border-color: #45505a; }
+.card:hover::after { width: 100%; }
+.icon {
+  width: 50px; height: 50px; border-radius: 12px; display: grid; place-items: center;
+  background: rgba(46, 139, 255, .12); color: var(--blue); margin-bottom: 20px;
+}
+.icon svg { width: 26px; height: 26px; }
+.card h3 { font-size: 19px; margin-bottom: 10px; }
+.card p { color: var(--muted); font-size: 15px; }
+
+/* About */
+.about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: center; }
+.about-text p { color: var(--muted); margin-bottom: 18px; }
+.about-text p strong { color: var(--text); font-weight: 500; }
+.points { display: grid; gap: 16px; }
+.point {
+  display: flex; gap: 18px; align-items: flex-start;
+  background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px 24px;
+}
+.point .num { font-size: 30px; font-weight: 600; color: var(--blue); line-height: 1; min-width: 72px; }
+.point.orange .num { color: var(--orange); }
+.point h3 { font-size: 16.5px; margin-bottom: 4px; }
+.point p { color: var(--muted); font-size: 14.5px; }
+
+/* Contact */
+.contact-grid { display: grid; grid-template-columns: 1.15fr .85fr; gap: 40px; }
+form { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 32px; }
+.row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.field { margin-bottom: 16px; }
+label { display: block; font-size: 13.5px; color: var(--muted); margin-bottom: 7px; }
+input, select, textarea {
+  width: 100%; padding: 12px 14px; border-radius: 10px; font-family: inherit; font-size: 15px;
+  background: var(--bg-2); border: 1px solid var(--line); color: var(--text); transition: border-color .2s;
+}
+input:focus, select:focus, textarea:focus { outline: none; border-color: var(--blue); }
+textarea { min-height: 130px; resize: vertical; }
+.hp { position: absolute; left: -9999px; }
+.form-note { font-size: 13.5px; margin-top: 14px; min-height: 20px; }
+.form-note.ok { color: #4fd18b; }
+.form-note.err { color: #ff7b6b; }
+.info { display: grid; gap: 14px; align-content: start; }
+.info-item {
+  display: flex; gap: 16px; align-items: flex-start;
+  background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px 22px;
+}
+.info-item .icon { margin: 0; width: 42px; height: 42px; flex: none; }
+.info-item .icon svg { width: 21px; height: 21px; }
+.info-item small { display: block; color: var(--muted); font-size: 13px; }
+.info-item a, .info-item address { font-style: normal; font-size: 15px; word-break: break-word; }
+.info-item a:hover { color: var(--blue); }
+.map { border-radius: var(--radius); overflow: hidden; border: 1px solid var(--line); height: 210px; }
+.map iframe { width: 100%; height: 100%; border: 0; filter: grayscale(.35) invert(.9) hue-rotate(180deg); }
+
+/* Footer */
+footer { border-top: 1px solid var(--line); padding: 34px 0; color: var(--muted); font-size: 13.5px; }
+.foot { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; align-items: center; }
+
+/* WhatsApp float */
+.wa-float {
+  position: fixed; right: 22px; bottom: 22px; z-index: 60;
+  width: 58px; height: 58px; border-radius: 50%; background: #25d366; color: #fff;
+  display: grid; place-items: center; box-shadow: 0 8px 24px rgba(0,0,0,.35); transition: transform .2s;
+}
+.wa-float:hover { transform: scale(1.07); }
+.wa-float svg { width: 30px; height: 30px; }
+
+/* Reveal on scroll */
+.reveal { opacity: 0; transform: translateY(18px); transition: opacity .6s ease, transform .6s ease; }
+.reveal.in { opacity: 1; transform: none; }
+@media (prefers-reduced-motion: reduce) {
+  .reveal { opacity: 1; transform: none; transition: none; }
+  .hero-art img { animation: none; }
+}
+
+/* Responsive */
+@media (max-width: 960px) {
+  .services { grid-template-columns: repeat(2, 1fr); }
+  .about-grid, .contact-grid { grid-template-columns: 1fr; gap: 40px; }
+}
+@media (max-width: 760px) {
+  .hero { padding: 36px 0 72px; }
+  .hero-grid { grid-template-columns: 1fr; }
+  .hero-art { order: -1; justify-content: center; }
+  .hero-art img { width: clamp(180px, min(64vw, 40vh), 340px); }
+  .services { grid-template-columns: 1fr; }
+  .badges { gap: 18px; }
+  .badge-item strong { font-size: 20px; }
+  .badge-item span { font-size: 12px; }
+  .row { grid-template-columns: 1fr; gap: 0; }
+  section { padding: 72px 0; }
+  form { padding: 24px; }
+  .menu-btn { display: block; }
+  .nav-links {
+    position: absolute; top: 72px; left: 0; right: 0; flex-direction: column; gap: 0;
+    background: var(--bg); border-bottom: 1px solid var(--line); padding: 8px 24px 20px; display: none;
+  }
+  .nav-links.open { display: flex; }
+  .nav-links li { width: 100%; }
+  .nav-links a { display: block; padding: 12px 0; }
+  .nav-links .btn { margin-top: 8px; justify-content: center; }
+  .brand span { font-size: 11.5px; letter-spacing: .18em; }
+}
+
+
